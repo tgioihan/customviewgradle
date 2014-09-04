@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/E:/workspace/apps/CustomView/customView/src/main/res/values-vi/strings.xml -->
+    <eat-comment />
+
+    <string name="Ok">Đồng ý!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">CustomView</string>
+    <string name="close">Đóng</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
